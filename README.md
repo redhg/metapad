@@ -1,5 +1,5 @@
 # Metapad
-This repo contains the Metapad Notepad-replacement binary and installation files for use when setting up a new Windows machine.
+This repo contains the [Metapad](https://github.com/alexd/metapad) Notepad-replacement binary and installation files for use when setting up a new Windows machine.
 
 ### Replacing `notepad.exe`
 Open an elevated command prompt and run `install.bat` in the `metapad` folder. This will replace the various `notepad.exe` files on your machine with a renamed `metapad.exe`.
