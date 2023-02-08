@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Edit File Type Icon
+[HKEY_CURRENT_USER\Software\Classes\txtfile\DefaultIcon]
+@=hex(2):43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,6e,00,6f,00,74,00,65,00,70,00,61,00,64,00,2e,00,65,00,78,00,65,00,2c,00,30,00,00,00
